@@ -10,7 +10,7 @@ import (
         "github.com/go-sql-driver/mysql"
     "log"
     "fyne.io/fyne/v2/dialog"
-        "github.com/Peterwithap/cardEditor/dbinit.go"
+        "github.com/Peterwithap/cards/dbinit.go"
 )
 
 var db *sql.DB
